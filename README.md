@@ -11,10 +11,10 @@ I'm leaning data science bootcamp. There are 10 sprints in the program.
 - Data Transformation
 - Data visualization
 
-  ## Second part of the program
+## Second part of the program
 
-  - Building website portfolio
-  - Essentail Statistics
-  - Python Programming
+- Building website portfolio
+- Essentail Statistics
+- Python Programming
  
     contact : yanisa.pjj@gmail.com
